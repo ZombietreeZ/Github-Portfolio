@@ -1,0 +1,14 @@
+D:\codeing\Giovanni.santiago\Santiago_IT2\bin\Debug\net9.0\Santiago_IT2.exe
+D:\codeing\Giovanni.santiago\Santiago_IT2\bin\Debug\net9.0\Santiago_IT2.deps.json
+D:\codeing\Giovanni.santiago\Santiago_IT2\bin\Debug\net9.0\Santiago_IT2.runtimeconfig.json
+D:\codeing\Giovanni.santiago\Santiago_IT2\bin\Debug\net9.0\Santiago_IT2.dll
+D:\codeing\Giovanni.santiago\Santiago_IT2\bin\Debug\net9.0\Santiago_IT2.pdb
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.AssemblyInfoInputs.cache
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.AssemblyInfo.cs
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.csproj.CoreCompileInputs.cache
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.dll
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\refint\Santiago_IT2.dll
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.pdb
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\Santiago_IT2.genruntimeconfig.cache
+D:\codeing\Giovanni.santiago\Santiago_IT2\obj\Debug\net9.0\ref\Santiago_IT2.dll

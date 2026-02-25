@@ -1,0 +1,14 @@
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\bin\Debug\net9.0\Santi_Gio_ClassesMOD6.exe
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\bin\Debug\net9.0\Santi_Gio_ClassesMOD6.deps.json
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\bin\Debug\net9.0\Santi_Gio_ClassesMOD6.runtimeconfig.json
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\bin\Debug\net9.0\Santi_Gio_ClassesMOD6.dll
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\bin\Debug\net9.0\Santi_Gio_ClassesMOD6.pdb
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.AssemblyInfoInputs.cache
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.AssemblyInfo.cs
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.csproj.CoreCompileInputs.cache
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.dll
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\refint\Santi_Gio_ClassesMOD6.dll
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.pdb
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\Santi_Gio_ClassesMOD6.genruntimeconfig.cache
+D:\codeing\Giovanni.santiago\Santi_Gio_DebugginMOD6\obj\Debug\net9.0\ref\Santi_Gio_ClassesMOD6.dll

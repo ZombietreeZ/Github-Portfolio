@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "638jCBmZL0g=",
+  "success": true,
+  "projectFilePath": "D:\\codeing\\Giovanni.santiago\\Santi_Gio_DebugginMOD6\\Santi_Gio_ClassesMOD6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gios1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gios1\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gios1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gios1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
